@@ -22,3 +22,8 @@ Select charts and visuals to display live data.
 5. Set Up Auto-Refresh
 Streaming Datasets update automatically.
 DirectQuery datasets need a refresh schedule.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fdbae213-f946-47a4-ade9-b185f5876aff)
+
